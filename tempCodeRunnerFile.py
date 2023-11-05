@@ -1,0 +1,1 @@
+print(birthdays_per_week)
